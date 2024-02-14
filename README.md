@@ -1,5 +1,5 @@
 # Generative design book
-Exercises form or inspired by "Generative Design" by Bohnacker, Gross, Laub, Lazzeroni.
+Exercises form or inspired by the "Generative Design" book by Bohnacker, Gross, Laub, Lazzeroni.
 
 ## Development instructions
 Clone this repository and run `npm install`.
