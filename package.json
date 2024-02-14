@@ -1,7 +1,7 @@
 {
-  "name": "d3-project-template",
+  "name": "generative-design-book",
   "version": "1.0.0",
-  "description": "D3 project",
+  "description": "Exercises from (or inspired by) Generative Design Book",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ave-llan/d3-project-template.git"
+    "url": "git+https://github.com/ave-llan/generative-design-book.git"
   },
   "keywords": [
     "template",
@@ -20,9 +20,9 @@
   "author": "John Leszczynski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ave-llan/d3-project-template/issues"
+    "url": "https://github.com/ave-llan/generative-design-book/issues"
   },
-  "homepage": "https://github.com/ave-llan/d3-project-template#readme",
+  "homepage": "https://github.com/ave-llan/generative-design-book#readme",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "eslint": "^8.11.0",

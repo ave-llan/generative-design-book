@@ -1,5 +1,5 @@
-# d3-project-template
-A template project that sets up a development environment using Webpack and D3.
+# Generative design book
+Exercises form or inspired by "Generative Design" by Bohnacker, Gross, Laub, Lazzeroni.
 
 ## Development instructions
 Clone this repository and run `npm install`.
